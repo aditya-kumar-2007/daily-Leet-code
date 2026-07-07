@@ -5,4 +5,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0009-palindrome-number) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 <!---LeetCode Topics End-->

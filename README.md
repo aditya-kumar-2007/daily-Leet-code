@@ -16,9 +16,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0014-longest-common-prefix) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

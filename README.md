@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0013-roman-to-integer) |
+| [1331-rank-transform-of-an-array](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## String
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0027-remove-element) |
+| [1331-rank-transform-of-an-array](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Trie
 |  |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/2685-count-the-number-of-complete-components) |
+## Sorting
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/1331-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->

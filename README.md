@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0058-length-of-last-word) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0027-remove-element) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0005-longest-palindromic-substring) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
 |  |

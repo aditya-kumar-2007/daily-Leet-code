@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0058-length-of-last-word) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0010-regular-expression-matching) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
 |  |
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/3312-sorted-gcd-pair-queries) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->

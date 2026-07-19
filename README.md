@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0067-add-binary) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
@@ -131,4 +132,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0010-regular-expression-matching) |
+## Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Greedy
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->

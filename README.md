@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0067-add-binary) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0013-roman-to-integer) |
 | [1331-rank-transform-of-an-array](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/3312-sorted-gcd-pair-queries) |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0058-length-of-last-word) |

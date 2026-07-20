@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0027-remove-element) |
+| [1260-shift-2d-grid](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/3312-sorted-gcd-pair-queries) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0067-add-binary) |
+| [1260-shift-2d-grid](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
@@ -148,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->

@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Trie
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0067-add-binary) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -157,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/1260-shift-2d-grid) |
+## Enumeration
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/3514-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->

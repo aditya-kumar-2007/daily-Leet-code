@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0013-roman-to-integer) |
 | [1331-rank-transform-of-an-array](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## String
 |  |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0067-add-binary) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
@@ -145,10 +148,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Counting
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Recursion
 |  |
 | ------- |

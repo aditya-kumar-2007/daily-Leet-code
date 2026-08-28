@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0877-stone-game) |
+| [0977-squares-of-a-sorted-array](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0977-squares-of-a-sorted-array) |
 | [1140-stone-game-ii](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/1331-rank-transform-of-an-array) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0977-squares-of-a-sorted-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Depth-First Search
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0628-maximum-product-of-three-numbers) |
+| [0977-squares-of-a-sorted-array](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |

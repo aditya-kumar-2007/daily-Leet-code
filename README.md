@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0169-majority-element) |
 | [1331-rank-transform-of-an-array](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0027-remove-element) |
+| [0169-majority-element](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0628-maximum-product-of-three-numbers) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/1331-rank-transform-of-an-array) |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0169-majority-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -226,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0169-majority-element) |
 | [2029-stone-game-ix](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/3312-sorted-gcd-pair-queries) |
@@ -325,4 +330,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

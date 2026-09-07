@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/3312-sorted-gcd-pair-queries) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0486-predict-the-winner) |
+| [0560-subarray-sum-equals-k](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0977-squares-of-a-sorted-array) |

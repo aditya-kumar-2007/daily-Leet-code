@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0067-add-binary) |
 | [0486-predict-the-winner](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0628-maximum-product-of-three-numbers) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0048-rotate-image) |
 | [1260-shift-2d-grid](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/1260-shift-2d-grid) |
 ## Enumeration
 |  |

@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0074-search-a-2d-matrix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0074-search-a-2d-matrix) |
 | [1260-shift-2d-grid](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/1260-shift-2d-grid) |
 ## Enumeration
 |  |

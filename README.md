@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0067-add-binary) |
+| [0263-ugly-number](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0263-ugly-number) |
 | [0486-predict-the-winner](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0877-stone-game) |

@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0067-add-binary) |
+| [0202-happy-number](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0263-ugly-number) |
 | [0486-predict-the-winner](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0628-maximum-product-of-three-numbers) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/1331-rank-transform-of-an-array) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0977-squares-of-a-sorted-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -384,4 +387,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0075-sort-colors) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->

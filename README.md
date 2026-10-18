@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0134-gas-station](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0215-kth-largest-element-in-an-array) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/0134-gas-station) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/aditya-kumar-2007/daily-Leet-code/tree/master/1927-sum-game) |
